@@ -1,0 +1,14 @@
+C:\Users\User\Tarea_09\bin\Debug\net10.0\Tarea_09.exe
+C:\Users\User\Tarea_09\bin\Debug\net10.0\Tarea_09.deps.json
+C:\Users\User\Tarea_09\bin\Debug\net10.0\Tarea_09.runtimeconfig.json
+C:\Users\User\Tarea_09\bin\Debug\net10.0\Tarea_09.dll
+C:\Users\User\Tarea_09\bin\Debug\net10.0\Tarea_09.pdb
+C:\Users\User\Tarea_09\obj\Debug\net10.0\Tarea_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Tarea_09\obj\Debug\net10.0\Tarea_09.AssemblyInfoInputs.cache
+C:\Users\User\Tarea_09\obj\Debug\net10.0\Tarea_09.AssemblyInfo.cs
+C:\Users\User\Tarea_09\obj\Debug\net10.0\Tarea_09.csproj.CoreCompileInputs.cache
+C:\Users\User\Tarea_09\obj\Debug\net10.0\Tarea_09.dll
+C:\Users\User\Tarea_09\obj\Debug\net10.0\refint\Tarea_09.dll
+C:\Users\User\Tarea_09\obj\Debug\net10.0\Tarea_09.pdb
+C:\Users\User\Tarea_09\obj\Debug\net10.0\Tarea_09.genruntimeconfig.cache
+C:\Users\User\Tarea_09\obj\Debug\net10.0\ref\Tarea_09.dll
